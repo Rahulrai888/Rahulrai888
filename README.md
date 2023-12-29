@@ -5,6 +5,17 @@
 ### Bio:
 
 Rahul Rai is a talented software engineer with expertise in Fullstack development, Python, and both frontend and backend technologies.
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rahulrai888&theme=dark&background=000000)](https://git.io/streak-stats)             [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulrai888&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+
+
+
+
+
+ <a href="https://github.com/Rahulrai888/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahulrai888&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Rahul's github stats" /></a> 
+
             
 
 ### Streetcred:
