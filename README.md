@@ -20,7 +20,10 @@ Rahul Rai is a talented software engineer with expertise in Fullstack developmen
 
 ### Streetcred:
 
-<a href="https://www.tublian.com/profile/Rahulrai888?ss=true"><img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Rahulrai888?type=with_score"></a>
+<a href="https://www.tublian.com/profile/Rahulrai888?ss=true">
+    <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Rahulrai888?type=with_score" alt="Streetcred Badge">
+</a>
+
 
 ### My Stack:
 
